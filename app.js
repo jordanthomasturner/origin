@@ -1,1 +1,2 @@
-alert("uh oh!")
+console.log("hellow world");
+console.log("here comes trouble");
